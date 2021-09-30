@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanzaygauhar
-- 👀 I’m a final semester student at FAST - National University of Computing and Emerging Sciences
+- 👀 I completed my BSCS from FAST - National University of Computing and Emerging Sciences, Lahore.
 - 📫 If you need to contact me, email me at shanzaygauhar@gmail.com
 
 I'm an eager learner and constantly trying to learn new skills. I have attached few of my semester projects, I hope you like them!
